@@ -982,7 +982,7 @@
         <stratos.version>2.2.0</stratos.version>
 
         <version.tomcat>7.0.59</version.tomcat>
-        <orbit.version.tomcat.servlet.api>7.0.59.wso2v3</orbit.version.tomcat.servlet.api>
+        <orbit.version.tomcat.servlet.api>7.0.59.wso2v1</orbit.version.tomcat.servlet.api>
 
         <!-- Axiom Version -->
         <axiom.wso2.version>1.2.11.wso2v9</axiom.wso2.version>
@@ -1061,7 +1061,7 @@
 
         <!-- Misc -->
         <junit.version>3.8.2</junit.version>
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <commons-dbcp.version>1.2.2</commons-dbcp.version>
         <orbit.version.h2.engine>1.2.140.wso2v3</orbit.version.h2.engine>
         <orbit.version.commons.fileuploader>1.2.0.wso2v1</orbit.version.commons.fileuploader>
